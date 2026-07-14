@@ -1,0 +1,15 @@
+days,weather,temperature,humidity,wind,play football
+d1,sunny,mild,high,weak,no
+d2,sunny,mild,high,weak,yes
+d3,cloudy,hot,high,strong,no
+d4,rain,mild,high,weak,no
+d5,rain,mild,normal,weak,yes
+d6,rain,hot,normal,strong,yes
+d7,cloudy,cold,high,weak,yes
+d8,sunny,mild,normal,weak,yes
+d9,sunny,cold,normal,strong,no
+d10,rain,cold,high,weak,yes
+d11,sunny,cold,high,weak,no
+d12,cloudy,hot,normal,strong,yes
+d13,cloudy,mild,high,strong,no
+d14,rain,mild,high,strong,yes
